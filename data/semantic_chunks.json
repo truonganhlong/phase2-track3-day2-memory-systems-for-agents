@@ -1,0 +1,7 @@
+[
+  "Docker Compose: services communicate via service name, not localhost.",
+  "Redis is often used for fast key-value profile memory.",
+  "Use token budget trimming to avoid overly long prompts.",
+  "When user updates a fact, latest fact should overwrite old value.",
+  "Semantic retrieval can fall back to keyword matching."
+]

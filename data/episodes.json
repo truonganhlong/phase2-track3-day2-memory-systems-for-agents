@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Task completion",
+    "outcome": "User outcome: Bài debug docker hôm qua đã làm xong."
+  },
+  {
+    "title": "Task completion",
+    "outcome": "OK đã xong, dùng service name là fix được!"
+  },
+  {
+    "title": "Task completion",
+    "outcome": "Đã cài xong Redis xong rồi."
+  },
+  {
+    "title": "Task completion",
+    "outcome": "Đã deploy lên server xong rồi."
+  }
+]
